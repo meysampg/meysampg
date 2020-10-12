@@ -19,4 +19,4 @@ __/\\\\____________/\\\\__/\\\\\\\\\\\\\_______/\\\\\\\\\\\\_
 
 :ballot_box_with_check: Go, Scala
 
-:curly_loop: Apache Spark
+:curly_loop: Apache Spark, Apache Presto, Apache Cassandra, HDFS
