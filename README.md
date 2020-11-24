@@ -11,12 +11,6 @@ __/\\\\____________/\\\\__/\\\\\\\\\\\\\_______/\\\\\\\\\\\\_
 
 ```
 
-:mailbox_with_no_mail: p.g.meysam [at] gmail
+:mailbox_with_no_mail: p.g.meysam [at] gmail [dot] com
 
 :office: https://pourganji.ir
-
-:rocket: https://virgool.io/@meysampg
-
-:ballot_box_with_check: Go, Scala
-
-:curly_loop: Apache Spark, Apache Presto, Apache Cassandra, HDFS
